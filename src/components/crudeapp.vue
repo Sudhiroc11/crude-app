@@ -74,11 +74,11 @@ export default {
       statuses: ["devlopment", "in-progress", "finished"],
       tasks: [
         {
-          name: "Steal bananas from the supermarket.",
+          name: "Refrigerator cooling part.",
           status: "devlopment",
         },
         {
-          name: "Eat 1 kg chocolate in 1 hour.",
+          name: "Laptop keyword.",
           status: "in-progress",
         },
        
