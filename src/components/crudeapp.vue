@@ -1,6 +1,6 @@
 <template>
   <div class="container" style="max-width: 600px">
-    <h2 class="text-center mt-5">CRUDE APP</h2>
+    <h2 class="text-center mt-5">CRUD APP</h2>
 
     <div class="d-flex mt-5">
       <input
